@@ -1,1 +1,2 @@
-
+edition.cnn.com
+us.cnn.com

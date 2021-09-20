@@ -18,3 +18,5 @@ seo-spam.txt is for sites that use ai or a small amount of effert to make articl
 content-creation.txt is for sites that are for content creation like Youtube and Twitch excludes sites that allow porn
 
 corperations.txt is for sites owned by large companys excluding news, social media and content creation
+
+content-creation.txt is for sites that talk about famous people
